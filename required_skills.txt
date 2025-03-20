@@ -1,0 +1,41 @@
+Data Engineering Skills,
+Python,
+Schema design,
+ETL,
+Data modeling
+Troubleshooting issues in data environments
+AWS Glue, S3, Athena, Redshift, Step Functions, Lambda, RDS, CloudWatch, EMR, EC2, VPC, SageMaker, IAM, EKS, QuickSight, CodePipeline, Migration Hub
+Azure Data Factory, ADLS, Azure Synapse Analytics, Azure SQL, Azure ML, AKS, Azure Blob Storage, Azure Functions, Azure Active Directory, Azure VM, Azure VNet, Migration Hub
+BigQuery, Pub/Sub, Cloud Build, Cloud IAM, Compute IAM, Cloud Storage, VPC, Cloud SQL, AI Platform, GKE, Cloud Functions, Operations Suite, Cloud CDN, Looker, Migrate for Compute Engine
+Snowflake
+SSMS, SSIS, SSAS, SSRS, Databricks, SQL Server
+Tableau, Power BI
+Big Data, Hadoop, PySpark, Kafka, Kinesis
+Batch data pipelines
+Real time data streaming
+Database optimization
+Stored Procedures optimization
+Data warehouse optimization
+CI/CD
+Git
+Data lineage
+Hive queries
+Jenkins
+Docker
+Machine learning
+Ad-hoc Querying
+Database migration
+IaaC
+DBT
+Data Integration
+Change Data capture
+Data pipelines
+API Design Development
+Data movement between sources
+Data Encryption
+Security Compliances
+Optimizing data workflows
+Data Quality testing
+ETL Pipeline failures detection and resolving
+Map Reduce jobs
+UDFs
